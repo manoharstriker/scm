@@ -1,4 +1,2 @@
-this will print hello world and
-
-
+this will print hello world
 print("hello world")
